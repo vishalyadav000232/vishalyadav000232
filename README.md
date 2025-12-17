@@ -2,8 +2,10 @@
 <h3 align="center">Backend Developer | FastAPI | Python | AI & ML Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer+with+FastAPI;Building+Production+Ready+APIs;Learning+AI+%26+Machine+Learning;Always+Learning+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=36BCF7&center=true&vCenter=true&width=780&size=22&pause=1000&lines=Backend+Developer+%7C+FastAPI+%7C+Python;Frontend+Developer+%7C+React+%7C+Redux+%7C+Zustand;UI+%26+Animation+%7C+Framer+Motion+%7C+DaisyUI;Forms+%26+Validation+%7C+React+Hook+Form+%7C+Zod;API+Handling+%7C+Axios+%7C+TenStack+Query;Building+Production+Ready+Fullstack+Apps" />
 </p>
+
+
 
 ---
 
@@ -47,6 +49,34 @@
 - RESTful APIs
 
 ---
+
+## 🎨 Frontend & State Management Skills
+
+### ⚛️ Core Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+</p>
+
+### 🎞 UI & Animation
+<p>
+  <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white"/>
+</p>
+
+### 🧠 State Management
+<p>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white"/>
+</p>
+
+### 📋 Forms & Validation
+<p>
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white"/>
+</p>
+
 
 ## 📊 GitHub Stats
 
