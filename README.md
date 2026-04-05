@@ -436,15 +436,9 @@ API Docs      ██████████  Swagger + ReDoc auto
 
 <br/>
 
-<div align="center">
 
-### 💬 Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
-
----
 
 <!-- Footer Wave -->
 
