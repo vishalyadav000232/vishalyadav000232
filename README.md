@@ -5,7 +5,8 @@
 <div align="center">
 
 <!-- ── HERO BANNER ─────────────────────────────────────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&customColorList=0,2,2,5,30&text=Vishal%20Yadav&fontSize=82&fontColor=ffffff&stroke=36BCF7&strokeWidth=2&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Python%20·%20FastAPI%20·%20React%20·%20PostgreSQL&descSize=16&descFontColor=7fdbff&descAlignY=73&fontAlignY=45" width="100%"/>
+<!-- ── HERO BANNER ─────────────────────────────────────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0d1117&text=Vishal%20Yadav&fontSize=60&fontColor=36BCF7&fontAlignY=40&desc=Full%20Stack%20Developer%20·%20FastAPI%20·%20React%20·%20PostgreSQL&descSize=15&descFontColor=7fdbff&descAlignY=65" width="100%"/>
 
 <!-- ── TYPING ANIMATION ─────────────────────────────────────────── -->
 <br/>
